@@ -1,6 +1,0 @@
-.venv/
-__pycache__/
-*.pyc
-backend/.env
-backend/cache/
-.DS_Store
